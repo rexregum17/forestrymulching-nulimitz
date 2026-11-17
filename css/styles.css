@@ -389,6 +389,29 @@ p { margin: 0 0 1rem; }
 .step h3 { font-size: 20px; letter-spacing: -.02em; margin: 0 0 6px; }
 .step p { color: var(--mut); font-size: 15px; margin: 0; }
 
+
+/* Land uses */
+.use-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+}
+.use-card {
+  background: var(--white);
+  padding: 28px 28px 30px;
+}
+.use-card h3 {
+  margin: 0 0 8px;
+  font-size: 22px;
+  letter-spacing: -.03em;
+  color: var(--ink);
+}
+.use-card p {
+  margin: 0;
+  font-size: 15px;
+  line-height: 1.5;
+  color: var(--mut);
+}
 /* FAQ */
 .faq { display: grid; gap: 0; max-width: 48rem; }
 .faq-item {
@@ -596,7 +619,7 @@ select {
 }
 
 @media (max-width: 900px) {
-  .step-grid, .quote-grid, .content-split, .foot-grid, .trust-bar .wrap {
+  .step-grid, .quote-grid, .content-split, .foot-grid, .trust-bar .wrap, .use-grid {
     grid-template-columns: 1fr;
   }
   .area-grid { grid-template-columns: repeat(2, 1fr); }
