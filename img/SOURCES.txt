@@ -1,0 +1,72 @@
+Image sources and licenses for the forestry mulching lead site.
+All photos were downloaded locally. None were taken from competitor sites.
+
+hero.jpg
+  Sunlight Shining Through Trees in Woods
+  Photographer: Vladimir Srajber
+  Source: https://www.pexels.com/photo/sunlight-shining-through-trees-in-woods-18643044/
+  License: Pexels License (free to use, including commercially; no attribution required)
+
+mulcher.jpg
+  Forestry tractor with mulcher clearing brush
+  Photographer: ivabalk
+  Source: https://pixabay.com/photos/machine-forestry-equipment-6812266/
+  License: Pixabay Content License (free to use, including commercially; no attribution required)
+
+chips.jpg
+  Wood Chips Lying on Ground
+  Photographer: Mike Bird
+  Source: https://www.pexels.com/photo/wood-chips-lying-on-ground-4167967/
+  License: Pexels License
+
+brush.jpg
+  Overgrown thickets and trees in summer forest
+  Photographer: Ave Calvar Martinez
+  Source: https://www.pexels.com/photo/overgrown-thickets-and-trees-in-summer-forest-4912397/
+  License: Pexels License
+
+lot.jpg
+  Edge of an Autumn Forest
+  Photographer: Petr Ganaj
+  Source: https://www.pexels.com/photo/edge-of-an-autumn-forest-18346915/
+  License: Pexels License
+
+trail.jpg
+  Dirt Road in Dense Forest
+  Photographer: Valeriia Yevchinets
+  Source: https://www.pexels.com/photo/dirt-road-in-dense-forest-18719750/
+  License: Pexels License
+
+selective.jpg
+  Forest Undergrowth on a Hillside
+  Photographer: Elina Volkova
+  Source: https://www.pexels.com/photo/forest-undergrowth-on-a-hillside-18664134/
+  License: Pexels License
+
+invasive.jpg
+  A grassy field with trees and bushes
+  Photographer: Guzel Sadykova
+  Source: https://www.pexels.com/photo/a-grassy-field-with-trees-and-bushes-26898780/
+  License: Pexels License
+
+hills.jpg
+  Sunbeam above woodland on hills
+  Photographer: K
+  Source: https://www.pexels.com/photo/sunbeam-above-woodland-on-hills-4552901/
+  License: Pexels License
+  Note: Taken in Sale Creek, Tennessee. Used as a general Appalachian woodland landscape.
+
+wv-hills.jpg
+  Appalachian river valley overlook
+  Photographer: csolingsmith
+  Source: https://pixabay.com/photos/west-virginia-wv-mountains-scenic-6003281/
+  License: Pixabay Content License
+
+wv-road.jpg
+  Scenic Country Road in West Virginia, USA
+  Photographer: Derek L
+  Source: https://www.pexels.com/photo/scenic-country-road-in-west-virginia-usa-32096127/
+  License: Pexels License
+
+Logos and favicons
+  The NuLimitz wordmark, favicon, apple-touch-icon, and icon-512 files were copied from the restyled lead-site brand set used on the other NuLimitz lead pages.
